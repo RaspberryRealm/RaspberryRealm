@@ -1,16 +1,28 @@
+
+
+
+
+# RaspberryRealm
+
+
+
 ### Hi there 👋
 
-<!--
-**RaspberryRealm/RaspberryRealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+[![Github](https://i.imgur.com/mN6rC4K.png)](https://github.com/RaspberryRealm)  [![Twitter Logo](https://i.imgur.com/l2ji8CY.png)](https://twitter.com/RaspberryRealm) 
+
+
+
